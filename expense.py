@@ -3,3 +3,6 @@ def add_expense():
     amount = float(input("Enter amount: "))
 
     print(f"Expense added: {name} - Rs. {amount}")
+
+
+print("Expense added successfully!")
